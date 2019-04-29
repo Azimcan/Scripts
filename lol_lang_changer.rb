@@ -11,3 +11,9 @@ end
 puts config["install"]["globals"]["locale"]
 
 a = gets.chomp
+
+# .bat
+# D:
+# cd "Games\League of Legends\Config"
+
+# ruby lol_lang_changer.rb
